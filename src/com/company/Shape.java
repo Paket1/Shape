@@ -1,5 +1,5 @@
 package com.company;
-
+//ВНИМАНИЕ - Я не добавил метод toString(), сделав задание немного по-другому. Метод toString() будет в следующих классах
 public class Shape {
     private char Type; //будет 3 типа фигуры с разными параметрами - круг(r-round), квадрат(s-square), треугольник(triangle)
     private int NumberOfV;//число вершин в фигуре
